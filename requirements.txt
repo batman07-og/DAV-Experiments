@@ -1,0 +1,10 @@
+# DAV Experiments - Requirements
+# Data Analysis and Visualization (DAV) Lab
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+nltk
